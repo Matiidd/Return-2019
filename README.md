@@ -10,7 +10,7 @@ Welcome back 2019!
 yea that's about it lol
 
 ## Preview
-![](https://cdn.discordapp.com/attachments/1050507569141133445/1050508867651510272/Sin_titulo.png)
+![](https://cdn.discordapp.com/attachments/1041413359377059862/1050533995886166046/Sin_titulo.png)
 
 ## Installing
 
